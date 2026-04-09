@@ -92,9 +92,3 @@ O teste **Kruskal-Wallis** foi aplicado para verificar se as diferenças entre o
 | Python | Pandas | NumPy | Scikit-learn | Seaborn | Matplotlib | Git |
 | ------ | ------ | ----- | ------------ | ------- | ---------- | --- |
 | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="100"> | <img src="https://www.svgrepo.com/show/354127/numpy.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="130"> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="130"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="110"> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="100"> |
-
----
-
-# Como rodar
-
-> Clique [aqui](https://github.com/JhenyfferOliveira/clustering) e visualize a análise completa realizada.
